@@ -1,0 +1,5 @@
+---
+title: JobKeeper Payment
+date: 2020-03-31T01:02:27.150Z
+---
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Prime Minister has just announced $130 billion over six months to help Australians keep their jobs through these tough times. The JobKeeper package is a $1,500 fortnightly payment for employers to pay their employees. <a href="https://twitter.com/hashtag/qldjobs?src=hash&amp;ref_src=twsrc%5Etfw">#qldjobs</a> <a href="https://twitter.com/hashtag/coronavirusaustralia?src=hash&amp;ref_src=twsrc%5Etfw">#coronavirusaustralia</a> <a href="https://t.co/WRQqQcZYZD">pic.twitter.com/WRQqQcZYZD</a></p>&mdash; Annastacia Palaszczuk (@AnnastaciaMP) <a href="https://twitter.com/AnnastaciaMP/status/1244515358192492544?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
