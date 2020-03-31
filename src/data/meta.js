@@ -10,7 +10,7 @@ const {
 } = process.env
 
 module.exports = {
-    title: META_TITLE || 'Emergency Site',
+    title: META_TITLE || 'Queensland COVID-19 alert ',
     url: META_URL || '',
     description: META_DESC || 'An emergency information website.',
     lang: META_LANG || 'en',
